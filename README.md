@@ -1,6 +1,7 @@
 README for Assignment 1 and Assignment 2
 
 Assignment 1: Playwright UI Tests
+
     1. Credentials Configuration
     Username and password can be updated in the credentials.json file located under test-data.
     
@@ -59,6 +60,7 @@ Assignment 1: Playwright UI Tests
 
 
 Assignment 2: API Test using pytest/Python
+
     1. Location of API Assignment Code
     The API assignment code is located under the API_Testing_Assignment folder within the Playwright workspace.
     
