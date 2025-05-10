@@ -1,0 +1,46 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/adm-zip": "^0.5.7",
+    "@types/json2csv": "^5.0.7",
+    "cross-env": "^7.0.3",
+    "playwright": "^1.52.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "acorn": "^8.14.1",
+    "acorn-walk": "^8.3.4",
+    "adm-zip": "^0.5.16",
+    "arg": "^4.1.3",
+    "axios": "^1.8.4",
+    "create-require": "^1.1.1",
+    "cross-spawn": "^7.0.6",
+    "csv-writer": "^1.6.0",
+    "diff": "^4.0.2",
+    "dotenv": "^16.4.7",
+    "isexe": "^2.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "make-error": "^1.3.6",
+    "openai": "^4.89.0",
+    "path-key": "^3.1.1",
+    "playwright-core": "^1.51.1",
+    "shebang-command": "^2.0.0",
+    "shebang-regex": "^3.0.0",
+    "tesseract.js": "^6.0.1",
+    "undici-types": "^6.20.0",
+    "v8-compile-cache-lib": "^3.0.1",
+    "which": "^2.0.2",
+    "yn": "^3.1.1"
+  },
+  "description": ""
+}

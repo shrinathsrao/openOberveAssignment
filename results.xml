@@ -1,0 +1,255 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="16.447667999999997">
+<testsuite name="dashboardFlow.spec.ts" timestamp="2025-05-10T14:09:21.126Z" hostname="chromium" tests="2" failures="0" skipped="0" time="14.706" errors="0">
+<testcase name="Assignment Tests › Creation of a Line Chart Dashboard with Operations on it" classname="dashboardFlow.spec.ts" time="12.791">
+<system-out>
+<![CDATA[Global Login Successful
+{
+  status: [32m'loading tesseract core'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-0-9cada'[39m
+}
+{
+  status: [32m'loading tesseract core'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-0-9cada'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'initializing tesseract'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-0-9cada'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'initializing tesseract'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-0-9cada'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-1-36885'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m0.5[39m,
+  userJobId: [32m'Job-1-36885'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-1-36885'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'initializing api'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-2-3e467'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  status: [32m'initializing api'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-2-3e467'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.11428571428571428[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.22857142857142856[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.35714285714285715[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.4714285714285714[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.5857142857142857[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+{
+  workerId: [32m'Worker-0-bc84c'[39m,
+  jobId: [32m'Job-0-9cada'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-3-34293'[39m
+}
+Extracted Text: Jaeger alertmanager cadvisor victoria_metrics
+Kubernetes Container Name
+SO rece fe le Or rome 4 1/5 b
+
+Text "1/" found! Applying Top N value setting
+{
+  status: [32m'loading tesseract core'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-4-b4666'[39m
+}
+{
+  status: [32m'loading tesseract core'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-4-b4666'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'initializing tesseract'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-4-b4666'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'initializing tesseract'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-4-b4666'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-5-1d1f4'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m0.5[39m,
+  userJobId: [32m'Job-5-1d1f4'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'loading language traineddata'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-5-1d1f4'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'initializing api'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-6-9d153'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  status: [32m'initializing api'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-6-9d153'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.08571428571428572[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.17142857142857143[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.2571428571428571[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.35714285714285715[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.44285714285714284[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.5285714285714286[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m0.6142857142857143[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+{
+  workerId: [32m'Worker-1-e70b1'[39m,
+  jobId: [32m'Job-4-b4666'[39m,
+  status: [32m'recognizing text'[39m,
+  progress: [33m1[39m,
+  userJobId: [32m'Job-7-68c25'[39m
+}
+Extracted Text: 000, _—
+controller Jaeger, otel_collector tempo)
+Kubernetes Container Name
+=O control eau Vio ~O- others
+
+Text "others" found! Top N Setting Successful
+Global Logout Successful
+
+[[ATTACHMENT|test-results\dashboardFlow-Assignment-T-184b0-board-with-Operations-on-it-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\dashboardFlow-Assignment-T-184b0-board-with-Operations-on-it-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\dashboardFlow-Assignment-T-184b0-board-with-Operations-on-it-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Invalid Login Tests › Invalid Login Functionality Validation" classname="dashboardFlow.spec.ts" time="1.915">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\dashboardFlow-Invalid-Logi-862be-in-Functionality-Validation-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\dashboardFlow-Invalid-Logi-862be-in-Functionality-Validation-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\dashboardFlow-Invalid-Logi-862be-in-Functionality-Validation-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
